@@ -1,9 +1,13 @@
-1. Start with
+1. Install modules
+```shell
+yarn install
+```
+2. Start with
 
 ```shell
 node server.js
 ```
 
 
-2. Navigate to [index.html](http://localhost:3003/index.html)
-3. Check on your plugin
+3. Navigate to [index.html](http://localhost:3003/index.html)
+4. Check on your plugin
